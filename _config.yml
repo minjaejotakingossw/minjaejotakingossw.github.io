@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Hello World! Currently I am an undergraduate student at Sungkyunkwan University and will attend to graduate program in Department of Biomedical Engineering at Sungkyunkwan University. I study how humans navigate in real world. Please feel free to take around!
+about_me_description: Hello World! Currently I am an undergraduate student at Sungkyunkwan University and will attend to graduate program in Department of Biomedical Engineering at Sungkyunkwan University. <br> I study how humans navigate in real world.<br> Please feel free to take around!
 
 # SKILLS SECTION
 # show_skills_card:
