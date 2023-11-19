@@ -16,46 +16,24 @@
 #     - tag: Ruby
 #     - tag: Rails
 #   timeline-side: right
+- title: Sungkyunkwan University
+  title-url: https://www.skku.edu/skku/index.do
+  date: 2024 - 2026(Expected)
+  subtitle: B.Eng. Biomedical Engineering
+  timeline-side: lefts
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: VCNL
+  title-url: https://sites.google.com/view/vcnlskku/
+  date: Apr 2021 - Present
+  subtitle: Research Assistant
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Experimental Psychology
+    - tag: fMRI
+    - tag: Data Analysis
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
-  timeline-side: left
-
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
-  timeline-side: left
+- title: Sungkyunkwan University
+  title-url: https://www.skku.edu/skku/index.do
+  date: 2019 - 2024
+  subtitle: B.A. German Language & Literature , B.Eng. Computer Science & Engineering
+  timeline-side: lefts
