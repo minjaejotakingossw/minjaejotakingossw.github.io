@@ -16,11 +16,12 @@
 #     - tag: Ruby
 #     - tag: Rails
 #   timeline-side: right
+
 - title: Sungkyunkwan University
   title-url: https://www.skku.edu/skku/index.do
   date: 2024 - 2026(Expected)
   subtitle: B.Eng. Biomedical Engineering
-  timeline-side: lefts
+  timeline-side: left
 
 - title: VCNL
   title-url: https://sites.google.com/view/vcnlskku/
@@ -36,4 +37,4 @@
   title-url: https://www.skku.edu/skku/index.do
   date: 2019 - 2024
   subtitle: B.A. German Language & Literature , B.Eng. Computer Science & Engineering
-  timeline-side: lefts
+  timeline-side: left
