@@ -33,6 +33,16 @@
     - tag: Data Analysis
   timeline-side: right
 
+- title: 2022 Neuromatch Academy
+  title-url: https://compneuro.neuromatch.io/tutorials/intro.html
+  date: Jun 2022
+  subtitle: Project Member
+  tags:
+    - tag: Neuroscience
+    - tag: Mouse LFP Data Analysis
+    - tag: Linear modeling
+  timeline-side: left
+
 - title: Sungkyunkwan University
   title-url: https://www.skku.edu/skku/index.do
   date: 2019 - 2024
@@ -49,4 +59,4 @@
     - tag: German Arts & Philosophy
     - tag: Introduction to German Literature
     - tag: Literature Critics
-  timeline-side: left
+  timeline-side: right
